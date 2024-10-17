@@ -1,0 +1,7 @@
+[core]
+    remote = dvc_remote
+    autostage = true
+['remote "dvc_remote"']
+    url = ssh://mylightning@94.232.245.232:22
+    user = mylightning
+    port = 22
